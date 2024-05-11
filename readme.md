@@ -78,9 +78,6 @@
 |<p align="center"><img src="https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/assets/46400961/223e0b57-bf61-4035-bf98-0712cb7f3dd0" height="150px" width="150px"></p>|<p align="center"><img src="https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/assets/76814748/acc92e73-2452-4a3c-b99d-abc571b2d1ed" height="150px" width="150px"></p>|<p align="center"><img src="https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/assets/46400961/21e2dcd9-c982-4695-a640-0770da6694bf" height="150px" width="150px"></p>
 |<p align='center'>[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/soyoonjeong)</p>|<p align='center'>[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jouhy)</p>|<p align='center'>[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/dlatjgus0612)</p>|
 
-### 👥 역할 
-<p align="center"><img src="https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/assets/46400961/f2bb09f6-53d8-46f9-9728-d271778bdd1d" style="max-width: 100%; height: auto;"></p>
-
 # ✅ 타임라인 
 팀 구성, 방향성을 설정하고 프로젝트를 설계하였습니다. 이후 `서비스 파이프라인`을 설계,  `sprint 주기`에 맞춰 회의를 진행하고, `기능명세서`를 작성하여 `task`를 진행하였습니다.
 
@@ -118,7 +115,5 @@
 -   [MLOps](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/mlops)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/mlops/README.md)
 
 ## Links
-### [YOUTUBE 발표자료](https://youtu.be/VJL6UQUTKrY?si=ZEs1L4BqvAnHlwvh) 
-updated. 2024.04.02
-### [NOTION LINK](https://truealex.notion.site/CV-08-d7987f38c09f470aababdedd822e96ca?pvs=4)
+### [NOTION LINK](https://soyoon49.notion.site/CV-08-a12a2072e14a4f8d857d31ee1e46a060)
 updated. 2024.03.31
